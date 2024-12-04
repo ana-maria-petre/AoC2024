@@ -1,0 +1,10 @@
+﻿  AoC4.cpp
+C:\Users\ANA MARIA\source\repos\AoC4\AoC4\AoC4.cpp(19,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ANA MARIA\source\repos\AoC4\AoC4\AoC4.cpp(20,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ANA MARIA\source\repos\AoC4\AoC4\AoC4.cpp(37,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ANA MARIA\source\repos\AoC4\AoC4\AoC4.cpp(38,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ANA MARIA\source\repos\AoC4\AoC4\AoC4.cpp(51,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ANA MARIA\source\repos\AoC4\AoC4\AoC4.cpp(52,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ANA MARIA\source\repos\AoC4\AoC4\AoC4.cpp(79,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ANA MARIA\source\repos\AoC4\AoC4\AoC4.cpp(80,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  AoC4.vcxproj -> C:\Users\ANA MARIA\source\repos\AoC4\x64\Debug\AoC4.exe
