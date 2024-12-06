@@ -75,7 +75,7 @@ int main()
     while (getline(f, line)) 
         map.push_back(line);
 
-
+//task 1
     int rows = map.size(), cols = map[0].size();
     int start_x = 0, start_y = 0, dir = 0; 
     for (int i = 0; i < rows; ++i) 
@@ -120,7 +120,7 @@ int main()
     }
 
     cout << "1: " << visited.size() << endl;
-
+//task 2
     rows = map.size(), cols = map[0].size();
     start_x = 0, start_y = 0;
 
