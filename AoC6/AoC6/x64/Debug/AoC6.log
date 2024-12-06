@@ -1,0 +1,8 @@
+﻿  AoC6.cpp
+C:\Users\ANA MARIA\source\repos\AoC6\AoC6\AoC6.cpp(17,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ANA MARIA\source\repos\AoC6\AoC6\AoC6.cpp(17,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ANA MARIA\source\repos\AoC6\AoC6\AoC6.cpp(79,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ANA MARIA\source\repos\AoC6\AoC6\AoC6.cpp(79,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ANA MARIA\source\repos\AoC6\AoC6\AoC6.cpp(124,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ANA MARIA\source\repos\AoC6\AoC6\AoC6.cpp(124,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  AoC6.vcxproj -> C:\Users\ANA MARIA\source\repos\AoC6\x64\Debug\AoC6.exe
