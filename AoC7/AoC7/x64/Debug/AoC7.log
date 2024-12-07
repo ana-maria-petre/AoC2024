@@ -1,0 +1,6 @@
+﻿  AoC7.cpp
+C:\Users\ANA MARIA\source\repos\AoC7\AoC7\AoC7.cpp(25,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ANA MARIA\source\repos\AoC7\AoC7\AoC7.cpp(26,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ANA MARIA\source\repos\AoC7\AoC7\AoC7.cpp(101,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ANA MARIA\source\repos\AoC7\AoC7\AoC7.cpp(102,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  AoC7.vcxproj -> C:\Users\ANA MARIA\source\repos\AoC7\x64\Debug\AoC7.exe
