@@ -4,7 +4,7 @@
 #include <sstream>
 #include <string>
 #include <cmath>
-
+ 
 using namespace std;
 
 ifstream f("input.in");
