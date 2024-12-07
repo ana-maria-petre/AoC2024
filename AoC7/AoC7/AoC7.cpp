@@ -56,8 +56,8 @@ long long solve1()
     {
         stringstream ss(line);
         long long target;
-        char colon;
-        ss >> target >> colon;
+        char col;
+        ss >> target >> col;
 
         vector<long long> numbers;
         long long num;
@@ -130,8 +130,8 @@ long long solve2()
     {
         stringstream ss(line);
         long long target;
-        char colon;
-        ss >> target >> colon;
+        char col;
+        ss >> target >> col;
 
         vector<long long> numbers;
         long long num;
