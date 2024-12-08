@@ -1,0 +1,4 @@
+﻿  AoC8.cpp
+C:\Users\ANA MARIA\source\repos\AoC8\AoC8\AoC8.cpp(87,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ANA MARIA\source\repos\AoC8\AoC8\AoC8.cpp(87,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  AoC8.vcxproj -> C:\Users\ANA MARIA\source\repos\AoC8\x64\Debug\AoC8.exe
