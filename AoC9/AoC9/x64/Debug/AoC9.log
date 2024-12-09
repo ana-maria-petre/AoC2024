@@ -1,4 +1,0 @@
-﻿  AoC9.cpp
-C:\Users\ANA MARIA\source\repos\AoC9\AoC9\AoC9.cpp(23,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\ANA MARIA\source\repos\AoC9\AoC9\AoC9.cpp(92,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-  AoC9.vcxproj -> C:\Users\ANA MARIA\source\repos\AoC9\x64\Debug\AoC9.exe
